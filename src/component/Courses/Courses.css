@@ -1,0 +1,13 @@
+.course__link {
+    text-align: center;
+    align-items: center;
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.course__link > div {
+    background: var(--color-bg-variant);
+}
+
